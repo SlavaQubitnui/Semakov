@@ -1,0 +1,10 @@
+D:\Downloads\Grap\bin\Debug\Grap.exe.config
+D:\Downloads\Grap\bin\Debug\Grap.exe
+D:\Downloads\Grap\bin\Debug\Grap.pdb
+D:\Downloads\Grap\obj\Debug\Grap.csprojAssemblyReference.cache
+D:\Downloads\Grap\obj\Debug\Grap.Gr.resources
+D:\Downloads\Grap\obj\Debug\Grap.Properties.Resources.resources
+D:\Downloads\Grap\obj\Debug\Grap.csproj.GenerateResource.cache
+D:\Downloads\Grap\obj\Debug\Grap.csproj.CoreCompileInputs.cache
+D:\Downloads\Grap\obj\Debug\Grap.exe
+D:\Downloads\Grap\obj\Debug\Grap.pdb
