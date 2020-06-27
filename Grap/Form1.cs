@@ -6,6 +6,7 @@ namespace Grap
 {
     public partial class Gr : Form
     {
+        //бранч1
         public Gr()
         {
             InitializeComponent();
