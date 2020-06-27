@@ -4,16 +4,9 @@ using System.Windows.Forms;
 
 namespace Grap
 {
+    //бранч2
     public partial class Gr : Form
     {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-        //бранч2
->>>>>>> Stashed changes
-=======
-        //бранч2
->>>>>>> Stashed changes
         public Gr()
         {
             InitializeComponent();
